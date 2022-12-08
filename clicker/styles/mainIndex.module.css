@@ -1,0 +1,9 @@
+
+
+.menuBtn{
+    font-size: 2rem;
+    position: absolute;
+    z-index: 2;
+    top: 30%;
+    left: 20%;
+}
